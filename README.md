@@ -32,16 +32,16 @@
 <h2 align="center">GitHub stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d4mie&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" alt="Damilola's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=d4mie&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" alt="Damilola's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=d4mie&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4mie&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=d4mie&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d4mie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=8" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph-plum.vercel.app/graph?username=d4mie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=8" alt="Contribution activity graph" />
 </p>
 
 ---
